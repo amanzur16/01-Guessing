@@ -1,2 +1,2 @@
 # 01-Guessing
-Guessing Game for GD Class
+Guessing Game for C220
